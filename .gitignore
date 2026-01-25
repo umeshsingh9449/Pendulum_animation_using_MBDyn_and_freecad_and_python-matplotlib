@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.npz
+
+# Outputs
+outputs/
+frames/
+*.mp4
+
+# System
+.DS_Store
+*.swp
+
+# FreeCAD
+*.FCStd
+
+
